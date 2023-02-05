@@ -12,7 +12,6 @@ export default function Home() {
             <motion.figure className="image" layoutId="image">
               <Image
                 src="/assets/task.png"
-                layout="responsive"
                 width={780}
                 height={501}
               />
